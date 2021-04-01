@@ -181,5 +181,3 @@ function updateCart() {
         c('aside').style.left = '100vw'
     }
 }
-
-// Continue to: Compra de Pizzas - parte 14
