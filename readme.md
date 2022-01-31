@@ -1,8 +1,8 @@
-### Landing Page Stayblue
+### Pizza Js
 
 <p>Neste projeto fiz uma listagem de pizzas, ao clicar em cada pizza a página irá abrir um modal com informações da pizza, podemos também adicionar a pizza ao carrinho, o projeto está responsivo e otimizado, este projeto foi feito com a ajuda do curso de Javascript da b7web.</p>
 
-<img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3o.gif"/>
+<img src="https://github.com/d8web/PizzaApp/blob/main/images/Anima%C3%A7%C3%A3o.gif"/>
 
 ### Features
 
